@@ -1,0 +1,7 @@
+{"name":"Bill","age":20,"classes":{"math":84,"chinese":80,"english":100},"hobbies":["swimming","basketball"],"rank":8,"_id":"12sevPzERGqPEQZt"}
+{"name":"Judy","age":21,"grade":3,"classes":{"math":90,"chinese":92,"english":89},"rank":7,"_id":"AWkHGtBQTy5p3wu5"}
+{"name":"Tony","age":20,"rank":2,"hobbies":["sing","dance"],"_id":"LktcFDLwWH0ZFmsV"}
+{"name":"Yan","age":20,"classes":{"math":90,"chinese":92,"english":96},"hobbies":["dance"],"rank":6,"_id":"TzfqGVCtd36KEswr"}
+{"name":"Alice","age":20,"classes":{"math":92,"chinese":98,"english":100},"rank":1,"_id":"kQUvy4GmZOwt4boZ","hobbies":["sing","swimming","dance","sing","swimming","dance","sing","swimming","dance","sing","swimming","dance"]}
+{"name":"Paul","age":20,"classes":{"math":89,"chinese":93,"english":98},"rank":5,"_id":"uI77EXZzySpCfZbH"}
+{"name":"Jhon","age":21,"grade":3,"classes":{"math":89,"chinese":96,"english":95},"rank":3,"_id":"vBxCA5GEzpj0dbi6"}
